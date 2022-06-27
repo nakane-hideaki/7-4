@@ -20,6 +20,9 @@ body{
     width: 100%;
 }
 
+.form p{
+    font-size: 200px;
+}
 .form_1 span{
     font-size: 18px;
     color: red;
