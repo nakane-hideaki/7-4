@@ -11,13 +11,13 @@ body{
 
 /* ページNO1 */
 
-.form_1{
-    text-align: center;
-    background-color: rgb(255 255 255 / 80%);
-    border: solid 1.5px;
+.form_999{
+    text-align: justify;
+    border: solid 100px;
     border-radius: 8px;
-    width: 50%;
-    margin: 60px auto;
+    font-size: 100px;
+    width: 100%;
+    margin: auto;
     height: auto;
 }
 
